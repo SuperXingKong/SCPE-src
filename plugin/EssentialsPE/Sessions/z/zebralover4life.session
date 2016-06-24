@@ -1,0 +1,22 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "zebralover4life": [
+            -196.83874511719,
+            65.00003420439,
+            95.213714599609,
+            "plot0",
+            225,
+            33
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

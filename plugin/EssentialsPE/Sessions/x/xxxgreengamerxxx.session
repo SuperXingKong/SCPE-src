@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "maria": [
+            169.79707336426,
+            89.000002746582,
+            16.718538284302,
+            "fac",
+            331,
+            53
+        ],
+        "xxxgreengamerxxx": [
+            306.04431152344,
+            69.000002746582,
+            92.013565063477,
+            "fac",
+            92,
+            18
+        ],
+        "green": [
+            164.20300292969,
+            93.000002746582,
+            31.920234680176,
+            "fac",
+            57,
+            22
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

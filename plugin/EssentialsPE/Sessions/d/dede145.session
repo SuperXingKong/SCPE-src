@@ -1,0 +1,22 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "aici": [
+            -63.043037414551,
+            68.000002767198,
+            206.91957092285,
+            "fac",
+            279,
+            13
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

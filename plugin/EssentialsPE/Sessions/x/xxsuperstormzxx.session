@@ -1,0 +1,22 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "derp": [
+            -203.90840148926,
+            67.123537902832,
+            -175.18092346191,
+            "plot0",
+            0,
+            19
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

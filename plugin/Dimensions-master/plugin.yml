@@ -1,0 +1,12 @@
+---
+name: Dimensions
+author:  BoxOfDevs
+version: 1.0
+api: [1.0.0, 2.0.0]
+main: BoxOfDevs\Dimensions\Main
+commands: 
+   createportal:
+       description: "Ingnite the portal that you are on"
+       usage: "/createportal"
+permissions: []
+...

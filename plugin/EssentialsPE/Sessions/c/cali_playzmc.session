@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "mine": [
+            143.30000305176,
+            61.019198931885,
+            127.30000305176,
+            "F2",
+            91,
+            -76
+        ],
+        "epic_mine": [
+            138.6594543457,
+            62,
+            125.38079833984,
+            "F2",
+            311,
+            7
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

@@ -1,0 +1,23 @@
+---
+prefix: "  &l&2>&6"
+suffix: "[A]"
+time: 9
+sendmessage-format: "&7{MESSAGE}"
+datetime-format: "H:i:s"
+broadcast-enabled: true
+messages:
+ - "&l* &r&oFollow us on YT and G+ ! YT & G+ = The LucyClub"
+ - "&l* &r&oThank you for playing Survival Craft!"
+ - "&l*&r&o You are playing Survival Craft on Minecraft 1.9.2"
+ - "&l*&r&o Top voter this month gets VIP+ FREE! Use /vote and become the top voter! ;)"
+ - "&l* &r&oVisit our forums! hypertic.yohosts.info/forums"
+popup-time: 1
+popup-duration: 102928832
+sendpopup-format: "&7{MESSAGE}"
+popup-broadcast-enabled: true
+popups:
+ - "&eThis server is made possible by &9Lucy&4Host\n&8Visit &7lucyhost.yohosts.info&8 for more info"
+ - "&eThis server is made possible by &9Lucy&4Host\n&8Visit &7lucyhost.yohosts.info&8 for more info"
+ - "&eThis server is made possible by &9Lucy&4Host\n&8Visit &7lucyhost.yohosts.info&8 for more info"
+ - "&eThis server is made possible by &9Lucy&4Host\n&8Visit &7lucyhost.yohosts.info&8 for more info"
+...

@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "red": [
+            208.13519287109,
+            75.000002746582,
+            143.79907226562,
+            "fac",
+            67,
+            21
+        ],
+        "fox": [
+            -16.305576324463,
+            69.000002746582,
+            223.88069152832,
+            "fac",
+            275,
+            11
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "lol": [
+            158.57499694824,
+            10,
+            127.61264801025,
+            "parkour1",
+            270,
+            16
+        ],
+        "cheat": [
+            159.48968505859,
+            16.000000839233,
+            128.22772216797,
+            "parkour1",
+            264,
+            27
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

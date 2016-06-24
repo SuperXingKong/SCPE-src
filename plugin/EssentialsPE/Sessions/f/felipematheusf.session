@@ -1,0 +1,46 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "mn": [
+            325.04113769531,
+            71.000002746582,
+            1791.6999511719,
+            "fac",
+            344,
+            22
+        ],
+        "madeira": [
+            328.96990966797,
+            70.000002746582,
+            1867.8327636719,
+            "fac",
+            355,
+            25
+        ],
+        "m": [
+            371.23596191406,
+            73.000002746582,
+            2191.8115234375,
+            "fac",
+            349,
+            5
+        ],
+        "d": [
+            172.52958679199,
+            69.000002746582,
+            65.581207275391,
+            "F1",
+            12,
+            46
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

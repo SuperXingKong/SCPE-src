@@ -1,0 +1,6 @@
+#Time in between each MOTD Change in seconds
+Occurrence: 1
+
+#Different MOTDs to show
+MOTDS:
+  - "&30.14.x: &escpe.game-server.cc 19134"

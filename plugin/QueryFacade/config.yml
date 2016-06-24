@@ -1,0 +1,33 @@
+#Configuration file for QueryFacade v1.0.0
+apply:
+#Everything that is set to true will be sent, if set to false, that cloak will be disabled and real data will be sent
+ level: true
+ maxPlayerCount: true
+ playerCount: true
+ playerList: true
+ plugins: true
+combine: false
+#Set to true to allow query data to be combined with other servers
+level: "N/A"
+#Sets the world name sent in a query
+maxPlayerCount: -9999999999999999999999999999
+#Sets the max player count sent in a query
+playerCount: -9999999999999999999999999999999999999999999999
+#Sets the player count sent in a query, try not to abuse this, or bad things might happen
+playerList:
+#Sets the players that will be "online", format: "name;ipAddress;portNumber"
+- "N/A;0.0.0.0;19132"
+- "-0;0.0.0.0;19132"
+- "-0;0.0.0.0;19132"
+- "-0;0.0.0.0;19132"
+plugins:
+#Sets the plugins that will be "installed", format: "name;versionString"
+- "SCPE CORE;9.0.2: 0.14.2"
+servers:
+#Fetchs data from all the servers specified, if they are valid and the have query turned on, and combine is set to true
+- "megagold.tk:19132"
+- "sg1.lbsg.net:19132"
+- "sg20.lbsg.net:19132"
+- "sg60.lbsg.net:19132"
+timeout: 120
+#Sets the timeout in seconds, if it takes longer than the timeout to query a server, the plugin will assume the server is offline

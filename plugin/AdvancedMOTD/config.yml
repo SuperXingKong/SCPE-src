@@ -1,0 +1,23 @@
+#Time in between each MOTD Change in seconds
+Occurrence: 0.0001
+
+#Different MOTDs to show
+MOTDS:
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac1&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac2&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac3&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac4&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac5&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac6&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac7&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac8&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac9&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac10&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac11&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac12&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac13&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac14&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac15&8.diamondrealms.tk"
+#  - "[{LAG}&r] &bD&aR&eP&cE &9fac16&8.diamondrealms.tk"
+- "&bSurvival&cCraft&6&r    &6&l> &r&9Powered by &fi&cServer&6&l <"
+

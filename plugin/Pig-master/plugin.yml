@@ -1,0 +1,8 @@
+name: Pig
+main: ImagicalGamer\Pig\Pig
+version: 0.0.1
+api: [1.0.0, 2.0.0, 3.0.0]
+author: ImagicalGamer
+commands:
+    pig:
+        description: Manage your plugs with ease!

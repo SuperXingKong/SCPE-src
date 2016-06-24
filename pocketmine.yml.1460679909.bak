@@ -1,0 +1,140 @@
+settings:
+ language: "eng"
+ force-language: false
+ shutdown-message: "Server is restarting"
+ whitelist-message: "Server is whitelisted"
+ query-plugins: false
+ deprecated-verbose: true
+ enable-profiling: false
+ profile-report-trigger: 20
+ async-workers: auto
+ config-update: true
+
+player:
+ inventory:
+  slot: 10000000000000000000000000000000000000000000000
+ hunger:
+  enable: true
+ experience:
+  enable: true
+  player-drop: true
+  mob-drop: true
+  break-drop: true
+  smelt-drop: true
+ 
+redstone:
+ enable: true
+ tick-limit: 204800
+
+I/O:
+ title-usage: true
+ log-to-file: true
+
+memory:
+ global-limit: 6556457640
+ main-limit: 5645345670
+ main-hard-limit: 5675647585462048
+ check-rate: 20
+ continuous-trigger: true
+ continuous-trigger-rate: 30
+
+ garbage-collection:
+  period: 18000
+  collect-async-worker: true
+  low-memory-trigger: true
+  
+ max-chunks:
+  trigger-limit: 96
+  trigger-chunk-collect: true
+  low-memory-trigger: true
+
+ world-caches:
+  disable-chunk-cache: false
+  low-memory-trigger: true
+
+network:
+ batch-threshold: 256
+ compression-level: 7
+ async-compression: true
+ anti-cheat: false
+ acceptable-packetlost: 2
+ timeout: 1
+ protocol: 0
+ version: "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ upnp-forwarding: true
+
+debug:
+ level: 1
+ allow-xdebug: true
+ commands: true
+
+level-settings:
+ default-format: mcregion
+ convert-format: false 
+ auto-tick-rate: true
+ auto-tick-rate-limit: 20
+ base-tick-rate: 1
+ always-tick-players: false
+ weather:
+  enable: true
+  rain:
+   possibility: 10
+   time:
+    min: 30
+    max: 120
+   rainfall:
+    min: 1000
+    max: 100000
+
+chunk-sending:
+ per-tick: 4
+ max-chunks: 192
+ spawn-threshold: 56
+ cache-chunks: true
+ 
+chunk-ticking:
+ per-tick: 0
+ tick-radius: 2
+ light-updates: true
+ clear-tick-list: true
+ 
+chunk-generation:
+ queue-size: 8
+ population-queue-size: 8
+
+ticks-per:
+ animal-spawns: 400
+ monster-spawns: 1
+ autosave: 6000
+ cache-cleanup: 900
+ 
+spawn-limits:
+  monsters: 70
+  animals: 15
+  water-animals: 5
+  ambient: 15
+
+aliases:
+
+worlds:
+
+auto-updater:
+ enabled: true
+ on-update:
+  warn-console: true
+  warn-ops: true
+ preferred-channel: Stable #Stable or DEV
+ host: jenkins.clearskyteam.org
+
+version: 16
+
+auto-report:
+ enabled: false
+ send-code: true
+ send-settings: true
+ send-phpinfo: false
+ host: crash.pocketmine.net
+ 
+anonymous-statistics:
+ enabled: false
+ host: stats.pocketmine.net

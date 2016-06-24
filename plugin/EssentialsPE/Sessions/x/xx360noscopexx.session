@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "home": [
+            -904.05682373047,
+            68.000002746582,
+            -424.45013427734,
+            "fac",
+            275,
+            30
+        ],
+        "camp": [
+            83.66902923584,
+            57.999998931885,
+            137.12545776367,
+            "fac",
+            188,
+            15
+        ],
+        "bed": [
+            -908.04174804688,
+            69.562502746582,
+            -426.37762451172,
+            "fac",
+            0,
+            0
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

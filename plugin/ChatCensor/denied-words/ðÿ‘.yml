@@ -1,0 +1,12 @@
+---
+delete-message: false
+enable-replace: true
+replace-word: '****'
+sender:
+  kick: true
+  ban: false
+kick:
+  message: '&cPlease don''t swear'
+ban:
+  message: You have been banned for swearing, next time please read the rules
+...

@@ -1,0 +1,33 @@
+
+# Available types:
+#   - broadcast
+#   - block
+#   - kick
+type: kick
+# The message that will send
+# You can use {player} to mention their name
+message: '{BLUE}Please do not advertise your server'
+# Blocked domain names
+domain:
+  - ".com"
+  - ".net"
+  - ".me"
+  - ".us"
+  - ".tk"
+  - ".cc"
+  - ".cf"
+# The domains that allowed to use
+allowed.domain:
+  - "diamondrealms.tk"
+# If true, it will detect a sign
+detect.sign: true
+# Lines that will change if player advertise on sign
+lines:
+  - '{BLUE}============='
+  - '{RED}No Advertising!'
+  - '{BLUE}============='
+  - ''
+# The command that will protected from advertising
+blocked.cmd:
+  - "/me"
+  - "/tell"

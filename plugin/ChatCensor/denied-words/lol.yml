@@ -1,0 +1,12 @@
+---
+delete-message: true
+enable-replace: false
+replace-word: '****'
+sender:
+  kick: true
+  ban: false
+kick:
+  message: 'Client error #342 -- Report this error to Mojang'
+ban:
+  message: You have been banned for swearing, next time please read the rules
+...

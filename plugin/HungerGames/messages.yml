@@ -1,0 +1,12 @@
+---
+joined_game: '&1-&2 %player% joined the match'
+already_running: '&1&l> &r&6That tournament has already started'
+not_enough_players: '&c[HG] cannot start game because there are not enough players.'
+match_started: '&1- &5Tournament started! Good Luck!'
+death_match_started: '&1- &2Deathmatch started!'
+game_open: '&1- &e%game% &ais open'
+waiting_for_players: '&aWaiting for players...'
+waiting_tip: '&f> &eStarting in %seconds% seconds &f<'
+won_match: '&1- &b%player% won the match on %game%!'
+match_full: '&1&l>&r&6 That tournament is full'
+...

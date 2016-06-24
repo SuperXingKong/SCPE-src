@@ -1,0 +1,30 @@
+{
+    "isAFK": true,
+    "isGod": false,
+    "homes": {
+        "owlette": [
+            107.78349304199,
+            65.000002746582,
+            -204.21968078613,
+            "plot0",
+            94,
+            32
+        ],
+        "owlette123": [
+            107.78349304199,
+            65.000002746582,
+            -204.21968078613,
+            "plot0",
+            94,
+            32
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

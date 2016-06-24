@@ -1,0 +1,141 @@
+---
+groups:
+  A:
+    entrance:
+    - say {name} ranked up to A
+    exit: []
+    perms: []
+    members:
+      0: jhoncs
+      1: HeelysDanceMCPE
+      3: Candyboy345
+      4: gusthavo_gamerbr
+      6: YouTube_IzAddy
+      10: popcornpop1
+      11: Champ
+      12: Katgirl_YT
+      14: cras75
+      15: hla_bl_mzh
+      17: Cecil1937
+      18: Cher
+      19: Super_Pup102
+      21: Xx_CutePink_xX
+      22: ElifBayrak
+      23: ultraandroid_YT
+      24: Xorangeman
+      27: KuriguiChan_3
+      31: Alexandru_129
+      32: skull255
+      37: lovepony3000wolf
+      38: XxBaby_AndreixX
+      41: PixelHunter01
+      42: PigPumaaaa
+      51: moodeactal
+      54: Sirgamesalot
+      58: dealfoxer
+  B:
+    entrance:
+    - say {name} ranked up to B
+    exit: []
+    perms: []
+    members:
+    - stampylonghead12
+    - iCreepyKid
+    - BlackSpiderMan99
+    - Creeper_girl_217
+    - XxCowzxX
+    - TNT373
+    - Norris
+    - xXsparky_4783Xx
+    - caterby
+    - Daniel_Gaming111
+    - jaska
+    - killer5000
+    - Joyzer
+    - ILovyMCPE909
+    - BeaconCream_YT_
+    - _xX_FLARE_Xx_
+    - Erdi_Eroni
+    - Slender_Man786
+    - icecreamice
+    - ThePurpleGamer38
+    - minecrafterious
+    - bulllyffo
+    - PeoplesGamer
+    - batmandeznuts
+    - theonlyway
+    - marian999
+    - Xcooler32_Gaming
+    - THE_BOW_MASTERV3
+    - henry
+    - Iwansamlilypad18
+    - SonOfAGod
+    - klouthaspro
+    - lopeze0127
+    - lololak19gmail
+    - xXTimyXxmas
+    - Monkeygangx77_YT
+    - themockingjay31
+    - DevilEyes
+    - kuya_josiah
+    - amelia195
+    - NIKMAN4
+    - cookiecakecutey1
+    - SansGaming
+    - Owlette123
+    - 11horserider
+    - IANMATT
+    - MiniGamer34
+    - Gio_SMG_123
+    - DONT_KILL_MEH
+    - Lucandru_YT
+    - XSYAMIBRINE2007X
+    - Pikachu9927
+    - Happy_girl_Ski
+    - 9penguinperson
+    - xXSuperStormzXx
+    - TheLord15
+    - crazydezzy
+    - Haleykins18
+    - Zumbipvp
+    - XxxGREENGAMERxxX
+    - bri_the_great
+    - GirlGamer58
+    - Ender_Boysssssss
+    - squidybro64
+    - Edgeblow360
+    - DERPYos
+    - lightstar717
+    - Jurish
+    - ClarkenTheLegend
+    - XxprogamingxX
+    - superbowsword
+    - BRAVE_LIGHTNING
+    - TheWolfYT
+    - Codrut_BOSS
+    - TBGRfrags
+    - HunterOps1122
+    - Godzmodz
+    - Cute_Shy_Girl
+    - coooldogg
+    - Ashley
+    - Epicteam2015TM
+    - RedX
+    - yjliu123
+    - ExequielHD
+    - jahamer1127
+    - WilTEM
+    - DjWither_MCPE
+  C:
+    entrance:
+    - say {name} ranked up to C
+    exit: []
+    perms: []
+    members: []
+  D:
+    entrance:
+    - say {name} ranked up to D
+    exit: []
+    perms: []
+    members: []
+...

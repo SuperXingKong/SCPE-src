@@ -1,0 +1,12 @@
+---
+delete-message: false
+enable-replace: true
+replace-word: '****'
+sender:
+  kick: true
+  ban: false
+kick:
+  message: 'Client error #321 -- Report this error to mojang'
+ban:
+  message: You have been banned for swearing, next time please read the rules
+...

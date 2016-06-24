@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "mrzerog": [
+            207.72566223145,
+            69.000002746582,
+            159.25297546387,
+            "fac",
+            358,
+            38
+        ],
+        "1": [
+            207.7981262207,
+            69.000002746582,
+            160.10127258301,
+            "fac",
+            177,
+            23
+        ],
+        "lap": [
+            217.42718505859,
+            69.000002746582,
+            161.25047302246,
+            "fac",
+            187,
+            39
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

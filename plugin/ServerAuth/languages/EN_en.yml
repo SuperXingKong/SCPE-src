@@ -1,0 +1,62 @@
+#ServerAuth plugin English language file
+#Translation by Flavius12, EvolSoft
+---
+join-message: "&eALERT: &oSurvivalCraft Client Processor has detected that you are connected to HTTP fallback. This means that your connection to the game servers may be slow.\n&aWelcome to &bSurvival&bCraft&a !"
+single-auth: "&cA player with this nickname is already authenticated!"
+mysql-success: "&aServerAuth successfully connected to the MySQL database!"
+mysql-restored: "&aMySQL connection restored!"
+mysql-fail: "&cServerAuth can't connect to the MySQL database. Data will be saved locally. Error: {MYSQL_ERROR}" 
+config-reloaded: "&aConfiguration reloaded!"
+operation-cancelled: "&cOperation cancelled"
+login:
+  message: "&l&1> &r&ePlease log in.\n&l&1> &r&aType &7/login &8<&7password&8>"
+  disabled: "Login disabled in this server"
+  command: "Usage: /login <password>"
+  ip-login: "&l&1> &r&9You have been automatically authenticated"
+  login-success: "&l&1> &r&2You have been logged in"
+  login-timeout: "You have failed to login in under 2 minutes!"
+  already-login: "You are already logged in"
+  too-many-attempts: "&cToo many login attempts!"
+register: 
+  message: "&l&1> &r&ePlease register.\n&1&l> &r&cType &7/register &8<&7password&8>"
+  message-conf: "&cPlease register with /register <password> <confirmPassword>"
+  disabled: "&cRegister disabled in this server"
+  command: "Usage: /register <password>"
+  command-conf: "Usage: /register <password> <confirmPassword>"
+  register-success: "&1&l> &r&aYou have been authenticated"
+  register-timeout: "Register Timeout"
+  already-registered: "You are already registered"
+changepassword:
+  disabled: "&cChange password disabled in this server"
+  login-required: "&cYou need to be logged in to change password"
+  command: "&cUsage: /changepassword <newPassword>"
+  command-conf: "&cUsage: /changepassword <newPassword> <confirmPassword>"
+  command-cons: "&cUsage: /changepassword <player> <newPassword>"
+  changepassword-success: "&aPassword changed!"
+  changepassword-cons-success: "&aPassword for user &b{PLAYER} &achanged to &b{PASSWORD}"
+logout:
+  disabled: "&cLogout disabled in this server"
+  logout-success: "&aYou have been logged out"
+unregister:
+  disabled: "&cUnregister disabled in this server"
+  login-required: "&cYou need to be logged in to unregister"
+  command: "&cUsage: /unregister <password>"
+  command-cons: "&cUsage: /unregister <player>"
+  unregister-success: "&aYou are now unregistered!"
+  unregister-success-3rd: "&aThe player is now unregistered!"
+help:
+   1: "Invalid Args"
+   error: "&cSubcommand &a{SUBCMD} &cnot found. Use &a/serverauth help &cto show available commands"
+errors:
+  generic: "&cAn error has occurred"
+  wrong-password: "&cWrong Password"
+  password-no-match: "&cPassword doesn't match confirmation"
+  password-too-short: "&cPassword too short"
+  password-too-long: "&cPassword too long"
+  user-not-registered: "&cYou are not registered"
+  user-not-registered-3rd: "&cThe player isn't registered"
+  user-not-authenticated: "&cYou are not logged in"
+  max-ip-reached: "&cYou reached the maximum number of registrations per IP"
+  no-permissions: "&cYou don't have permissions to use this command"
+  player-only: "&cYou can only perform this command as a player"
+...

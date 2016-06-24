@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "woods": [
+            397.85375976562,
+            74.000002746582,
+            -181.26870727539,
+            "fac",
+            142,
+            24
+        ],
+        "house": [
+            407.51428222656,
+            77.000002746582,
+            -216.69999694824,
+            "fac",
+            11,
+            11
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

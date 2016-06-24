@@ -1,0 +1,8 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=0040D70F
+eax=00000000 ebx=00000064 ecx=2006FE40 edx=00000000 esi=00000001 edi=00200000
+ebp=00020500 esp=0062A480 program=C:\Users\sebas_000\Desktop\MC-Servers\PE\SG\bin\mintty.exe, pid 24588, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+00020500  0040D70F (00000000, 00000000, 00000000, 00000000)
+End of stack trace

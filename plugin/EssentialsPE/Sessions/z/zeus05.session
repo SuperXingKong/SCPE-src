@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "zeus05": [
+            171.2721862793,
+            67.000002746582,
+            132.69961547852,
+            "fac",
+            1,
+            39
+        ],
+        "aza": [
+            322.50347900391,
+            61.999999737191,
+            116.02094268799,
+            "fac",
+            173,
+            -47
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

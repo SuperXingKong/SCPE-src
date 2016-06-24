@@ -1,0 +1,7 @@
+# THIS IS GOOD THE WAY IT IS IT DOES NOT NEED TO BE CHANGED!!
+# Max blocks to accelerate player
+max: 5
+
+# This is a list of all the blocks that will be able to be used as accelerators
+blocks:
+    - 152 # Redstone Block

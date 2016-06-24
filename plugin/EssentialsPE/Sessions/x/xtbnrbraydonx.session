@@ -1,0 +1,38 @@
+{
+    "isAFK": true,
+    "isGod": false,
+    "homes": {
+        "k": [
+            135.24331665039,
+            66.000002746793,
+            35.219596862793,
+            "F1",
+            319,
+            25
+        ],
+        "z": [
+            134.3106842041,
+            64.000002746582,
+            42.672180175781,
+            "F1",
+            171,
+            -11
+        ],
+        "t": [
+            133.57241821289,
+            74.000002746582,
+            43.299522399902,
+            "F1",
+            351,
+            28
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

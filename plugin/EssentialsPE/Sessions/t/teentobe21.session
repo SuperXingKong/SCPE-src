@@ -1,0 +1,46 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "home": [
+            144.62176513672,
+            8,
+            128.11557006836,
+            "parkour1",
+            262,
+            47
+        ],
+        "1": [
+            158.57499694824,
+            11.771737747192,
+            127.33088684082,
+            "parkour1",
+            270,
+            34
+        ],
+        "2": [
+            159.95445251465,
+            16.000000839233,
+            128.36022949219,
+            "parkour1",
+            266,
+            35
+        ],
+        "3": [
+            176.22996520996,
+            20.000000839233,
+            127.92925262451,
+            "parkour1",
+            273,
+            41
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

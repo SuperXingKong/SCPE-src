@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "cakes": [
+            120.9832611084,
+            70.500003551888,
+            64.486480712891,
+            "F1",
+            88,
+            33
+        ],
+        "mine": [
+            25.978605270386,
+            77.000002746582,
+            -33.515930175781,
+            "F1",
+            177,
+            8
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

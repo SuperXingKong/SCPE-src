@@ -1,0 +1,89 @@
+---
+datetime-format: "H:i:s"
+Motd:
+  update-timeout: 1
+  custom: false
+  message: "&e[{TIME}] &aWelcome to your server! &n&b[{TOTALPLAYERS}/{MAXPLAYERS}]"
+OutdatedClient:
+  custom: true
+  message: "&cPlease update minecraft to 0.14.2!\n&bDo this by going To the App Store, or Google Play Store and go to 'my apps' and click on minecraft, and press 'update'."
+OutdatedServer:
+  custom: false
+  message: "&9Server is full! &aPlease join &cus.diamondrealms.tk:19134"
+WhitelistedServer:
+  custom: true
+  message: "&eLucyHost encountered an error when your tryed to join. Try again later!"
+FullServer:
+  custom: true
+  message: "&7-= &a[ &6Notice &a] &7=-\n&bThis LucyHost server is being upgraded\n.           \n.          \n&bCome back in 4 hours!"
+FirstJoin:
+  enable: false
+  message: "&2[{TIME}] &a{PLAYER}&d joined the game for the first time."
+Join:
+  hide: true
+  custom: true
+  message: "&2[{TIME}] &a{PLAYER}&e joined the game."
+Quit:
+  hide: true
+  custom: false
+  message: "&4[{TIME}] &c{PLAYER}&e has left the game"
+WorldChange:
+  enable: false
+  message: "&2[{TIME}] &a{PLAYER}&e moved from &c{ORIGIN}&e to &a{TARGET}"
+Death:
+  hide: true
+  custom: true
+  message: "&c{PLAYER} died"
+  death-contact-message:
+    hide: true
+    custom: true
+    message: "&cOops! {PLAYER} was killed by {BLOCK}"
+  kill-message:
+    hide: true
+    custom: true
+    message: "&9{PLAYER} &ewas killed by &c{KILLER}"
+  death-projectile-message:
+    hide: true
+    custom: true
+    message: "&c{PLAYER} was killed by {KILLER} by arrow"
+  death-suffocation-message:
+    hide: true
+    custom: true
+    message: "&c{PLAYER} suffocated"
+  death-fall-message:
+    hide: true
+    custom: true
+    message: "&c{PLAYER} fell from a high place"
+  death-fire-message:
+    hide: true
+    custom: true
+    message: "&c{PLAYER} went up in flames"
+  death-on-fire-message:
+    hide: true
+    custom: true
+    message: "&c{PLAYER} burned"
+  death-lava-message:
+    hide: true
+    custom: true
+    message: "&c{PLAYER} tried to swim in lava"
+  death-drowning-message:
+    hide: true
+    custom: true
+    message: "&c{PLAYER} drowned"
+  death-explosion-message:
+    hide: true
+    custom: true
+    message: "&c{PLAYER} exploded"
+  death-void-message:
+    hide: true
+    custom: true
+    message: "&c{PLAYER} fell into the void"
+  death-suicide-message:
+    hide: true
+    custom: true
+    message: "&c{PLAYER} committed suicide"
+  death-magic-message:
+    hide: true
+    custom: true
+    message: "&c{PLAYER} was killed by a spell"
+...

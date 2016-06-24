@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "home": [
+            208.8688659668,
+            69.000002746582,
+            154.30874633789,
+            "fac",
+            5,
+            15
+        ],
+        "houseymousey": [
+            208.09893798828,
+            69.000002746582,
+            159.71624755859,
+            "fac",
+            10,
+            21
+        ],
+        "myhouse": [
+            -18.038536071777,
+            68.000002746582,
+            164.25044250488,
+            "fac",
+            112,
+            17
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

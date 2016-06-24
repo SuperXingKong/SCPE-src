@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "home": [
+            629.79412841797,
+            74.000002746582,
+            379.71798706055,
+            "fac",
+            272,
+            8
+        ],
+        "kins": [
+            630.64831542969,
+            74.000002746582,
+            380.05712890625,
+            "fac",
+            269,
+            8
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

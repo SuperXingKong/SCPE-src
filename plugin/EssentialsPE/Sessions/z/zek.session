@@ -1,0 +1,54 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "zero": [
+            46.700000762939,
+            69.000002746582,
+            -69.810180664062,
+            "fac",
+            328,
+            23
+        ],
+        "zek": [
+            55.064346313477,
+            72.050109795304,
+            -68.847434997559,
+            "fac",
+            148,
+            67
+        ],
+        "desert": [
+            200.36152648926,
+            68.000002746582,
+            -39.97998046875,
+            "fac",
+            244,
+            73
+        ],
+        "mine": [
+            18.305416107178,
+            62,
+            -27.569757461548,
+            "fac",
+            71,
+            68
+        ],
+        "bed": [
+            52.351829528809,
+            79.000002746582,
+            -70.046577453613,
+            "fac",
+            0,
+            0
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

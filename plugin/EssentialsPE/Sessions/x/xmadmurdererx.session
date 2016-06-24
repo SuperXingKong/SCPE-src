@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "godz": [
+            12.199020385742,
+            1.0000000144081,
+            -155.74635314941,
+            "fac",
+            216,
+            17
+        ],
+        "zek": [
+            55.586444854736,
+            78.000002746582,
+            -70.4716796875,
+            "fac",
+            335,
+            7
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

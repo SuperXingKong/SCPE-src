@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "aici": [
+            228.69119262695,
+            57,
+            163.57461547852,
+            "fac",
+            100,
+            27
+        ],
+        "maria": [
+            166.2447052002,
+            89.000002746582,
+            16.443622589111,
+            "fac",
+            341,
+            19
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}
